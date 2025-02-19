@@ -111,20 +111,20 @@
 
 <li>
 <a href="https://www.linkedin.com/in/stiven-felix-495273335/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  stivenfelix-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
-
-<br>
 
 <br>
 
 <li>
-<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<a href="felixstiven12@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  stivenfelix-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<br>
+ 	
 </ul>
 </div>
 
@@ -141,16 +141,11 @@
 </div>
 <br>
 <br>
-<br>
-<br>
-
 ---
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-Last Edited on: 09/11/2022
+Last Edited on: 09/01/2025
 <!--
 **felixstiven/felixstiven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
