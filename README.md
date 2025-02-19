@@ -20,6 +20,7 @@
 
 - A passionate Self-taught Front-end and backend developer.
 - certified with well known academies in full stack web development backend javascript python and database.
+  <br> ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 - Hackathon finalist Innovation  startup p4s and ministry of TIC.
 - studyng in free time
 - Currently learning Web Development by Self
@@ -47,6 +48,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br>
 
