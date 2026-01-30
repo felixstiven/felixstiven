@@ -1,7 +1,6 @@
 
 ## Hey,Stiven felix here<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# 👋 Hey, I'm Stiven Felix
 
 **Full-Stack Developer** | Building AI-Powered SaaS Solutions | Learning in Public
 
@@ -90,9 +89,9 @@ I'm a passionate **software development student at SENA** focused on building sc
 
 ## 📊 GitHub Stats
 
-![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixstiven&show_icons=true&theme=radical)
+![Stiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=felixstiven&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixstiven&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felixstiven&layout=compact&theme=tokyonight)
 
 ---
 
@@ -141,10 +140,9 @@ I embrace:
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: [linkedin.com/in/stiven-felix](https://linkedin.com/in/stiven-felix)
-- 🐦 Twitter: [@felixstiven](https://twitter.com/felixstiven)
-- 📧 Email: your-email@example.com
-- 🌐 Portfolio: [Coming Soon]
+- 💼 LinkedIn: [linkedin.com/in/stiven-felix](https://www.linkedin.com/in/stiven-felix-495273335/)
+- 📧 Email: felixstiven12@gmail.com
+- 🌐 Portfolio: https://perfilprofesional-production-2e21.up.railway.app/
 
 ---
 
